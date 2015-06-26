@@ -1,0 +1,29 @@
+{
+  "name": "willow-error",
+  "version": "1.0.0",
+  "description": "A standard error object for use in willow applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillowJs/willow-error.git"
+  },
+  "keywords": [
+    "willow",
+    "javascript",
+    "react",
+    "error",
+    "error",
+    "handling",
+    "error",
+    "object"
+  ],
+  "author": "Aaron Larner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillowJs/willow-error/issues"
+  },
+  "homepage": "https://github.com/WillowJs/willow-error#readme"
+}
